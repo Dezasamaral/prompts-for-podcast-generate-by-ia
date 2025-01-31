@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    Descubra aí, iPhone!
 </p>
 
 <div align="center">
