@@ -46,11 +46,11 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🛠️ Para execução
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Foi utilizado os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada.
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `Bling Imagem Creator`
+- 🤖 1. Prompts de roteiro no `chagpt`
+- 🤖 2. Prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
+- 🤖 3. Prompts de artes no `Bling Imagem Creator`
 
 ## 👨‍💻 Expert
 
