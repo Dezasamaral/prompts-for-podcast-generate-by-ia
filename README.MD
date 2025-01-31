@@ -20,6 +20,8 @@
 
 <p align="center">
     Descubra aí, iPhone!
+Dicas simples e truques espertos para você dominar o iPhone sem complicação!
+
 </p>
 
 <div align="center">
